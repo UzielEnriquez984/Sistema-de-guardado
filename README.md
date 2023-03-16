@@ -15,7 +15,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 public class Kick : MonoBehaviour
-
 {
     //VARIABLE PARA INTERACTUAR CON LAS FISICAS DEL OBJETO
     private Rigidbody2D BallBody;
@@ -66,6 +65,7 @@ public class Kick : MonoBehaviour
 La función de este código es posibilitar el movimiento de la bola y susceptibilizar el funcionamiento del juego.
 
 Menuscreen
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -96,6 +96,7 @@ public class MenuScreen : MonoBehaviour
 La función de este código es mostrar lo que en sí es el menú, en el cual, el juagor podría optar por iniciar una partida o visualizar el marcador de la anterior partida.
 
 Move
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -146,6 +147,7 @@ public class Move : MonoBehaviour
   La función de este código es susceptibilizar el movimiento de las raquetas, como complemento del código, Kick.
   
   SetNamesScreen
+  
   using System.Collections;
 using System.Collections.Generic;
 using TMPro;
@@ -185,6 +187,7 @@ public class SetNamesScreen : MonoBehaviour
 La función de este código es permitirle al jugador personalizar el nombre consignado en las pantallas: del juego, de victoria del ganador y el registro del marcador de la partida anterior.
 
 WinnerScreen
+
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
