@@ -9,6 +9,7 @@ La puntuación de victoria es de diez puntos.
 Para el movimiento vertical de la raqueta del jugador, las teclas correspondientes son: "W y S"; y para el movimiento vertical de la raqueta del jugador dos, las teclas correspondientes son las flechas de abajo y arriba.
 # Codificación 
 Kick
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
