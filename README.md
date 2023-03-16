@@ -12,12 +12,10 @@ Para el movimiento vertical de la raqueta del jugador, las teclas correspondient
 Kick
 
 using System.Collections;
-
 using System.Collections.Generic;
-
 using UnityEngine;
-
 public class Kick : MonoBehaviour
+
 {
     //VARIABLE PARA INTERACTUAR CON LAS FISICAS DEL OBJETO
     private Rigidbody2D BallBody;
